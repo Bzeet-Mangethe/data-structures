@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\bin\Debug\assignment3.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\bin\Debug\assignment3.pdb
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\obj\Debug\assignment3.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment3\obj\Debug\assignment3.pdb

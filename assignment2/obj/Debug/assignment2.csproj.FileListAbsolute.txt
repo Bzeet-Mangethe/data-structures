@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\bin\Debug\assignment2.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\bin\Debug\assignment2.pdb
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\obj\Debug\assignment2.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assignment2\obj\Debug\assignment2.pdb

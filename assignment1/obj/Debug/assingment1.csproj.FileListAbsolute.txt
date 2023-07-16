@@ -1,0 +1,7 @@
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\bin\Debug\assingment1.exe.config
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\bin\Debug\assingment1.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\bin\Debug\assingment1.pdb
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\obj\Debug\assingment1.csproj.AssemblyReference.cache
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\obj\Debug\assingment1.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\obj\Debug\assingment1.exe
+C:\Users\bhekanimasinga\Desktop\Data Structures\assingment1\obj\Debug\assingment1.pdb
